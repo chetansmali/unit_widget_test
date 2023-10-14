@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
             SizedBox(height: 20,),
             ElevatedButton(onPressed: (){
               // var options = {
-              //   'key': 'rzp_test_JCr2A2hdzBVvOu',
+              //   'key': '',
               //   'amount': 1 * 100, //in the smallest currency sub-unit.
               //   'name': 'UniversalBoos',
               //   'order_id': 'order_EMBFqjDHEEn80l', // Generate order_id using Orders API
